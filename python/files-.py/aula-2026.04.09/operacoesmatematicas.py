@@ -25,12 +25,10 @@ def subtracao():
 def divisao():
     n1 = float(input('Digite o 1º número:'))
     n2 = float(input('Digite o 2º número.'))
-    res = 0
-    if n1 > n2:
+    if n1 == 0 or n2 == 0:
+        print('Zero não é permitido')
+    else:  
         res = round((n1 / n2), 2)
-        print(f'A divisão dos números é igual a {res}')
-    else:
-        res = round ((n2/n1), 2)
         print(f'A divisão dos números é igual a {res}')
 #Multiplicacao
 def multiplicacao():
