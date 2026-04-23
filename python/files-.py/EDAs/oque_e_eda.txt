@@ -1,0 +1,39 @@
+EXPLORATORY DATA ANALYSIS - EDA
+
+# import pandas as pd
+# import numpy as np
+# import matplotlib.pyplot as plt
+# import seaborn as sns
+
+# # Carregar dados
+# df = pd.read_csv('dados.csv')
+
+# # 1. Visualizar primeiras linhas
+# print(df.head())
+# print(df.info())
+# print(df.describe())
+
+# # 2. Verificar valores faltantes
+# print(df.isnull().sum())
+
+# # 3. Estatísticas básicas
+# print(f"Média: {df['coluna'].mean()}")
+# print(f"Mediana: {df['coluna'].median()}")
+# print(f"Desvio padrão: {df['coluna'].std()}")
+
+# # 4. Distribuição de dados
+# plt.figure(figsize=(10, 5))
+# plt.hist(df['coluna'], bins=30, edgecolor='black')
+# plt.title('Distribuição')
+# plt.show()
+
+# # 5. Correlação entre variáveis
+# sns.heatmap(df.corr(), annot=True, cmap='coolwarm')
+# plt.show()
+
+# # 6. Boxplot para detectar outliers
+# sns.boxplot(data=df, y='coluna')
+# plt.show()
+
+# # 7. Contar valores únicos
+# print(df['coluna_categorica'].value_counts())
