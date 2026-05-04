@@ -108,15 +108,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-<div align="center">
 
-**⭐ Se este repositório te ajudou, dê uma estrela!**
-
-Feito com ❤️ e muita curiosidade por [Seu Nome]
-
-</div>
-
----
 
 ## Modificações Feitas
 
