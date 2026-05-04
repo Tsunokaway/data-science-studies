@@ -42,24 +42,6 @@ data-science-studies/
 
 </div>
 
-## 🚀 Como Começar
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/data-science-studies.git
-   cd data-science-studies
-   ```
-
-2. **Instale as dependências:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Explore as pastas:**
-   - Comece pelos arquivos básicos em `python/files-.py/`
-   - Veja os projetos em `projects/`
-   - Pratique SQL em `sql/`
-   - Explore a infraestrutura de dados em `arquitecture/`
 
 ## 📚 Conteúdo dos Estudos
 
@@ -98,9 +80,6 @@ data-science-studies/
 - [ ] Deep Learning
 - [ ] Big Data
 
-## 🤝 Contribuições
-
-Este é um repositório pessoal de estudos, mas sugestões e correções são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## 📄 Licença
 
