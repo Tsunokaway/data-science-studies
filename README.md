@@ -15,7 +15,8 @@ data-science-studies/
 │   ├── 📁 colab_notebook/ # Notebooks do Google Colab
 │   └── 📁 files-.py/      # Arquivos Python organizados por aulas
 ├── 📁 sql/               # Scripts e exercícios de SQL
-└── 📁 statistics/        # Conceitos e aplicações estatísticas
+├── 📁 statistics/        # Conceitos e aplicações estatísticas
+├── 📁 arquitecture/      # Infraestrutura e orquestração de workflows (Airflow)
 ```
 
 ### Detalhes das Pastas
@@ -24,6 +25,7 @@ data-science-studies/
 - **python/**: Estudos de programação Python, incluindo algoritmos básicos e análise de dados
 - **sql/**: Consultas SQL, modelagem de dados e bancos de dados
 - **statistics/**: Conceitos estatísticos, probabilidade e inferência
+- **arquitecture/**: Infraestrutura de dados, orquestração de workflows e exemplos de uso do Apache Airflow
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -36,6 +38,7 @@ data-science-studies/
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 </div>
 
@@ -56,6 +59,7 @@ data-science-studies/
    - Comece pelos arquivos básicos em `python/files-.py/`
    - Veja os projetos em `projects/`
    - Pratique SQL em `sql/`
+   - Explore a infraestrutura de dados em `arquitecture/`
 
 ## 📚 Conteúdo dos Estudos
 
@@ -79,6 +83,11 @@ data-science-studies/
 - 📊 Probabilidade
 - 📈 Inferência estatística
 - 📉 Testes de hipóteses
+
+### Arquitetura de Dados
+- ⚙️ Orquestração de workflows com Apache Airflow
+- 🐳 Execução local de pipelines via Docker
+- 📂 Exemplos de DAGs e plugins customizados
 
 ## 🎓 Progresso de Aprendizado
 
@@ -106,3 +115,12 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 Feito com ❤️ e muita curiosidade por [Seu Nome]
 
 </div>
+
+---
+
+## Modificações Feitas
+
+- Adicionada a pasta **arquitecture/** à estrutura do projeto, dedicada à infraestrutura de dados e orquestração de workflows com Apache Airflow.
+- Atualizada a seção de tecnologias utilizadas, incluindo o Apache Airflow.
+- Incluída a descrição da pasta **arquitecture/** nos detalhes das pastas.
+- Acrescentada a seção "Arquitetura de Dados" no conteúdo dos estudos, destacando orquestração de workflows, execução via Docker e exemplos de DAGs.
